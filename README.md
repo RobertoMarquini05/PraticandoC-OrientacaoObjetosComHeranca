@@ -1,4 +1,4 @@
-# 📘 Praticando C#: Orientação a Objetos com Herança
+# 📘 Praticando C#: orientação a objetos com classes
 
 Este repositório contém os estudos e práticas realizados durante o curso
 **[Praticando C#: orientação a objetos com classes]**
