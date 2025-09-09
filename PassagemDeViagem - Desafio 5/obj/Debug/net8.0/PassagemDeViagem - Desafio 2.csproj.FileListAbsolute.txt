@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\bin\Debug\net8.0\PassagemDeViagem - Desafio 2.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\bin\Debug\net8.0\PassagemDeViagem - Desafio 2.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\bin\Debug\net8.0\PassagemDeViagem - Desafio 2.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\bin\Debug\net8.0\PassagemDeViagem - Desafio 2.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\bin\Debug\net8.0\PassagemDeViagem - Desafio 2.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\refint\PassagemDeViagem - Desafio 2.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\PassagemDeViagem - Desafio 2.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PassagemDeViagem\obj\Debug\net8.0\ref\PassagemDeViagem - Desafio 2.dll
