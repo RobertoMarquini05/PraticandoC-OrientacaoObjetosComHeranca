@@ -1,7 +1,7 @@
 # 📘 Praticando C#: Orientação a Objetos com Herança
 
 Este repositório contém os estudos e práticas realizados durante o curso
-**[Praticando C#: Orientação a Objetos com Herança]**
+**[Praticando C#: orientação a objetos com classes]**
 da Alura, concluído em **22/05/2025** com carga horária de **6 horas**.
 
 ------------------------------------------------------------------------
