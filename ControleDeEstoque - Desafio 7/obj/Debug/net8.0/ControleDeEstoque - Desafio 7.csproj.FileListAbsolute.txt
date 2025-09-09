@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\bin\Debug\net8.0\ControleDeEstoque - Desafio 7.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\bin\Debug\net8.0\ControleDeEstoque - Desafio 7.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\bin\Debug\net8.0\ControleDeEstoque - Desafio 7.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\bin\Debug\net8.0\ControleDeEstoque - Desafio 7.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\bin\Debug\net8.0\ControleDeEstoque - Desafio 7.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\refint\ControleDeEstoque - Desafio 7.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ControleDeEstoque - Desafio 7.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ControleDeEstoque - Desafio 7\obj\Debug\net8.0\ref\ControleDeEstoque - Desafio 7.dll

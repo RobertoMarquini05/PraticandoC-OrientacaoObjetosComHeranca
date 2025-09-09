@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControleDeEstoque - Desafio 7/1.0.0": {
+        "runtime": {
+          "ControleDeEstoque - Desafio 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleDeEstoque - Desafio 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
