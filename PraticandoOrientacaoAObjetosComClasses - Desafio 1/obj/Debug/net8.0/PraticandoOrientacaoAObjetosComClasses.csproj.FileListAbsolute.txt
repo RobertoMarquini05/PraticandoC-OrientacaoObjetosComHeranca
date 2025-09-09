@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\bin\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\bin\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\bin\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\bin\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\bin\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\refint\PraticandoOrientacaoAObjetosComClasses.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\PraticandoOrientacaoAObjetosComClasses.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\PraticandoOrientacaoAObjetosComClasses\obj\Debug\net8.0\ref\PraticandoOrientacaoAObjetosComClasses.dll
