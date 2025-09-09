@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\bin\Debug\net8.0\Retangulo - Desafio 5.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\bin\Debug\net8.0\Retangulo - Desafio 5.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\bin\Debug\net8.0\Retangulo - Desafio 5.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\bin\Debug\net8.0\Retangulo - Desafio 5.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\bin\Debug\net8.0\Retangulo - Desafio 5.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\refint\Retangulo - Desafio 5.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\Retangulo - Desafio 5.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\Retangulo\obj\Debug\net8.0\ref\Retangulo - Desafio 5.dll
