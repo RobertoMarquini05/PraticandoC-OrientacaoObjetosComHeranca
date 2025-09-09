@@ -1,0 +1,14 @@
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\bin\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.exe
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\bin\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.deps.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\bin\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.runtimeconfig.json
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\bin\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\bin\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.AssemblyInfoInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.AssemblyInfo.cs
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\refint\ValidacaoAcessoFilme - Desafio 6.dll
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.pdb
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ValidacaoAcessoFilme - Desafio 6.genruntimeconfig.cache
+C:\Users\Roberto Marquini\Desktop\Nova pasta\ValidacaoAcessoFilme - Desafio 6\obj\Debug\net8.0\ref\ValidacaoAcessoFilme - Desafio 6.dll
